@@ -1,0 +1,9 @@
+body { 
+    background: lightblue url("../images/background.jpg") no-repeat fixed center; 
+}
+
+li {
+	font-weight: bold;
+	font-size: 16px;
+
+}
